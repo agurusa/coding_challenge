@@ -49,7 +49,7 @@ MVP | x|
 Refactored solution | x
 A second solution | |x
 Definitions to bolded words |x | 
-Definitions to 
+Definitions to words outside of these instructions | | x
 Good commit messages | | x
 Good repo structure | | x
 
