@@ -3,15 +3,15 @@ Coding challenges, for funsies
 
 # Your challenge
 ## Should you choose to accept it ...
-Complete the coding challenge [here](https://leetcode.com/problems/two-sum/). Upload your solution in this **repository**. Look up words you don't understand in these directions. *Note: The **bold** words are ones I assumed you would have to look up. If there are other words here that you do not know, I highly suggest looking them up as well.*
+Complete the coding challenge [here](https://leetcode.com/problems/two-sum/). Upload your solution to this **repository**. Look up words you don't understand in these directions. *Note: The **bold** words are ones I assumed you would have to look up. If there are other words here that you do not know, I highly suggest looking them up as well.*
 
 # Steps to completion
 ### Come up with a solution **(~1.5 hours)**
 The first step is to come up with any solution that solves the problem. It doesn't have to be pretty, and it doesn't have to be fast. It just has to work. This will be your **MVP**, or Minimum Viable Product.
 1. Sign up for a [Leetcode](https://leetcode.com) account.
-1. Solve the [two-sum](https://leetcode.com/problems/two-sum/) problem. You can use any language you want, but I suggest Python. *At this point, do not look at the solution or other people's answers.*
+1. Solve the [two-sum](https://leetcode.com/problems/two-sum/) problem. You can use any language you want, but I suggest Python. *At this point, do not look at the solution or other people's answers. Definitely use the docs for coding help. If you choose Python, you can look [here](https://docs.python.org/3/library/index.html).*
 
-### Get me your answer **(1.5 hours)**
+### Get me your answer **(2 hours)**
 You'll want to submit this MVP, because sometimes deadlines are more important than perfect code.
 
 1. Sign up for Github
@@ -41,6 +41,10 @@ Here, you'll want to actually change the logic behind your solution. There are a
 1. Come up with a new solution. *Now is the time to look at the solution tab and other answers.*
 1. Get this code to me by making a pull request. 
 
+### Get a code review
+We have one scheduled for *Monday night, 6:30 PM PST.* Be ready to justify every line of code you submit. We will likely use [atom](https://atom.io). Be ready to talk more in depth about the definitions to the bolded words.
+
+
 # Measurements of Completion
 The items below should be on Github.
 Task | Adequate | Excellent
@@ -53,6 +57,5 @@ Definitions to words outside of these instructions | | x
 Good commit messages | | x
 Good repo structure | | x
 
-
 ## A Note On Budgeting Time
-These tasks might take much more time than I estimated above. That's completely ok. Check in with me if your MVP is taking longer than 3 hours, and maybe we can **pair**. 
+These tasks might take much more time than I estimated above. That's completely ok. Github can be a beast the first time you use it, and there's a learning curve to reading coding docs. Check in with me if your MVP is taking longer than 3 hours, and maybe we can **pair**. 
