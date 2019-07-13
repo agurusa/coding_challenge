@@ -47,15 +47,16 @@ We have one scheduled for *Monday night, 6:30 PM PST.* Be ready to justify every
 
 # Measurements of Completion
 The items below should be on Github.
+
 Task | Adequate | Excellent
 ---|---|---
 MVP | x|
-Refactored solution | x
+Refactored solution |x
 A second solution | |x
 Definitions to bolded words |x | 
-Definitions to words outside of these instructions | | x
-Good commit messages | | x
-Good repo structure | | x
+Definitions to words outside of these instructions | |x
+Good commit messages | |x
+Good repo structure | |x
 
 ## A Note On Budgeting Time
 These tasks might take much more time than I estimated above. That's completely ok. Github can be a beast the first time you use it, and there's a learning curve to reading coding docs. Check in with me if your MVP is taking longer than 3 hours, and maybe we can **pair**. 
